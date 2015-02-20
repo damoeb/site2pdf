@@ -9,4 +9,4 @@ Dependencies
 
 Getting Started
 -----------
-```$ phantomjs ./rasterize.js http://www.heise.de ./result.pdf```
+```phantomjs ./rasterize.js http://www.heise.de ./result.pdf```
